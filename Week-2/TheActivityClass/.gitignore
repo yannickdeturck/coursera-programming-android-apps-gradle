@@ -4,3 +4,6 @@
 # IntelliJ files
 .idea
 *.iml
+
+# Gradle files
+.gradle
