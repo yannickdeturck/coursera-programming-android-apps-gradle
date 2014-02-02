@@ -1,4 +1,4 @@
-# coursera-programming-android-apps
+# Coursera Programming Android Apps Gradle
 This repository contains the Gradle version of the assignments of the 'Programming Mobile Applications for Android Handheld Systems'-Coursera course.
 
 IntelliJ13 was used as IDE on Mac OS X 10.9, Genymotion for AVDs, Galaxy Nexus 4.3 API 18 as VD.
