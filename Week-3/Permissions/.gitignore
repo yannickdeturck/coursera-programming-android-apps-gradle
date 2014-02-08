@@ -1,0 +1,9 @@
+# OSX files
+.DS_Store
+
+# IntelliJ files
+.idea
+*.iml
+
+# Gradle files
+.gradle
