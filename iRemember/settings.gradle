@@ -1,1 +1,1 @@
-include ':iRemember'
+include ':iRemember', ':iRememberContentProvider'

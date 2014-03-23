@@ -38,5 +38,4 @@ android {
 
 dependencies {
     compile name: 'android-support-v4'
-    compile name: 'slf4j-api-1.7.5'
 }
